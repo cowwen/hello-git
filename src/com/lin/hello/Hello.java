@@ -8,5 +8,6 @@ public class Hello {
 		System.out.println("Hello git,nice to me you!");
 		System.out.println("use egit function.");
 		System.out.println("modify commit to github.");
+		System.out.println("change key.");
 	}
 }
